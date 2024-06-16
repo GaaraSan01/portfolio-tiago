@@ -1,0 +1,22 @@
+html, body {
+    background: #E6E6E6;
+}
+
+.card__titulo2 {
+    color: #152536;
+    margin: 10px 0;
+}
+
+.social__links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+hr {
+    color: #001855;
+    background-color: #001855;
+    height: 2px;
+    margin-top: 0;
+}
