@@ -1,5 +1,5 @@
 #content {
-    background: url('./assets/img/background.png') no-repeat center center/cover;
+    background: url('/assets/img/background.png') no-repeat center center/cover;
     background-color: #0c387a;
 
     height: 100vh;
