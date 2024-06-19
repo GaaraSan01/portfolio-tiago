@@ -24,3 +24,9 @@ hr {
 #section__ux {
     background-color: #E6E6E6;
 }
+
+.card__titulo {
+    color: #001855;
+    font-weight: bold;
+    font-size: 21px;
+}
